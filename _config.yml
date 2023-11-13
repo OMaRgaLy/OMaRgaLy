@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: Main page
+description: Testing GHPages
+plugins:
+- jekyll-remote-theme
