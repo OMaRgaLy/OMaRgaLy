@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio are available at [omargaly.github.io](https://omargaly.github.io/)
 
-- 🌱 I’m currently learning **PHP (8.3^), Golang (1.24^), Nginx, MySQL/PosgtreSQL, MongoDB, Redis, Laravel, Symphony, Vue**
+- 🌱 I’m currently learning *Golang (1.24^), *PHP (8.3^), Nginx, MySQL/PosgtreSQL, MongoDB, Docker, Redis, Laravel, Symphony, Vue**
 
 - 📫 My email is **omargaly.rs@gmail.com**
 
