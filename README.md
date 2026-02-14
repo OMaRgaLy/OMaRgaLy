@@ -1,18 +1,47 @@
-<h1 align="center">Hello! I'm Omargaly Bitebayev</h1>
-<h3 align="center">Golang Backend Developer from Semey, Kazakhstan</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=1&multiline=true&width=500&height=80&separator=%3C&lines=Computer+Science+Enthusiast+;3%3CGolang+Backend+Developer+at+Kwaaka!)](https://git.io/typing-svg)
-
-- 👨‍💻 My portfolio are available at [omargaly.github.io](https://omargaly.github.io/)
-
-- 🌱 I’m currently learning **Golang (1.24^), Nginx, MySQL, PosgtreSQL, MongoDB, Docker, Redis, Gin**
-
-- 📫 My email is **omargaly.rs@gmail.com**
-
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bitebayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omargaly" height="30" width="40" /></a>
-<a href="https://instagram.com/arikun.kerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omargaly" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Omargaly 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Golang+Backend+Developer;Building+at+Kwaaka;CS+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omargaly&show_icons=true&locale=en&layout=compact" alt="omargaly" /></p>
+<p align="center">
+  <a href="https://omargaly.github.io/">🌐 Portfolio</a> • 
+  <a href="https://linkedin.com/in/bitebayev">💼 LinkedIn</a> • 
+  <a href="mailto:omargaly.rs@gmail.com">📧 Email</a>
+</p>
+
+---
+
+### ⚡ About Me
+Based in **Semey, Kazakhstan**, I specialize in building scalable backend systems. Currently, I'm sharpening my skills in high-performance Go services and cloud-native architecture.
+
+- 🔭 Working on **Backend at Kwaaka**
+- 🎓 Deeply interested in **Computer Science** fundamentals
+- 🚀 Current focus: **Golang**, microservices, and system design
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-008080?style=for-the-badge&logo=gin&logoColor=white" />
+</p>
+
+---
+
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omargaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargaly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargaly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
