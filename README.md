@@ -39,7 +39,7 @@ Based in **Semey, Kazakhstan**, I specialize in building scalable backend system
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github.com/omargaly/omargaly/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <!-- <img src="https://github.com/omargaly/omargaly/blob/main/github-metrics.svg" alt="Metrics" width="100%"> -->
 </p>
 
 <p align="center">
