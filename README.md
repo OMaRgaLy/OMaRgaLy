@@ -36,10 +36,11 @@ Based in **Semey, Kazakhstan**, I specialize in building scalable backend system
 
 ---
 
-### 📊 Github Stats
+### 📈 Activity & Metrics
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omargaly&theme=tokyonight&hide_border=true&area=true)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omargaly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargaly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github.com/omargaly/omargaly/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 </p>
 
 <p align="center">
