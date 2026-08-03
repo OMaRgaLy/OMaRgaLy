@@ -16,7 +16,8 @@ Based in **Semey, Kazakhstan**, I specialize in building scalable backend system
 
 - 🔭 Working on **Backend at Kwaaka**
 - 🎓 Deeply interested in **Computer Science** fundamentals
-- 🚀 Current focus: **Golang**, microservices, and system design
+- 🚀 Current focus: **Golang**, **AI**, microservices, and system design
+- 🌐 AI Enthusiast
 
 ---
 
