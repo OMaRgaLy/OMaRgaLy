@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omargaly 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Kwaaka;Growing+into+Software+Engineer+%7C+Backend+%26+AI;Go+%7C+Microservices+%7C+System+Design;Hackathons+%26+AI+experiments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Kwaaka;Software+Engineer+%7C+Backend+%26+AI;Go+%7C+Microservices+%7C+System+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +20,12 @@
 
 ### ⚡ About Me
 
-Backend developer (Go / PHP / Elixir) based in **Semey, Kazakhstan**. I build scalable backend services in **Go** at **[Kwaaka](https://github.com/kwaaka-team)** and enjoy turning hackathon ideas into working products.
+Software Engineer (Go / PHP / Elixir) based in **Semey, Kazakhstan**. I build scalable backend services with **Go** at **[Kwaaka](https://github.com/kwaaka-team)** and enjoy turning hackathon ideas into working products.
 
 - 🔭 Working on backend services at **Kwaaka**
 - 🚀 Focus: **Golang**, microservices, system design, cloud-native architecture
-- 🎯 Goal: become a **Software Engineer | Backend & AI**
-- 🤖 Experimenting with **AI** agents and tooling
-- 🎓 Digging into **Computer Science** fundamentals
+- 🤖 Experimenting with **AI** agents
+- 🎓 Diving into **Computer Science**
 
 ---
 
